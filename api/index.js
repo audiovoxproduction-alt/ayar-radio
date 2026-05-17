@@ -12,9 +12,7 @@ export default async function handler(req, res) {
             },
             metadata: {
               title: "Айар Радио",
-              subtitle: "Онлайн радио",
-              art: {}
-              }
+              subtitle: "Онлайн радио"
             }
           }
         }
