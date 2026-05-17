@@ -11,7 +11,7 @@ export default async function handler(req, res) {
           }
         }
       },
-      end_session: true
+      end_session: false
     },
     version: "1.0"
   });
