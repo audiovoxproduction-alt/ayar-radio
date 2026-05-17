@@ -8,7 +8,7 @@ export default async function handler(req, res) {
         start_audio_player: {
           item: {
             stream: {
-              url: "https://c22.radioboss.fm:8213/live"
+              url: "https://ayar-radio.vercel.app/api/stream"
             },
             metadata: {
               title: "Айар Радио",
