@@ -8,7 +8,7 @@ export default async function handler(req, res) {
         start_audio_player: {
           item: {
             stream: {
-              url: "https://c22.radioboss.fm:8213/stream"
+              url: "https://c22.radioboss.fm:8213/live"
             },
             metadata: {
               title: "Айар Радио",
